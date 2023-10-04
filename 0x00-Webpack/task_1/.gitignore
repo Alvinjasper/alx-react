@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 node_modules
 package-lock.json
 *LICENSE*
+=======
+/node_modules
+>>>>>>> f4345cad4844b5374f7b6a715bbabb5b2d0e84fd

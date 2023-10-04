@@ -1,6 +1,12 @@
 #logo {
+<<<<<<< HEAD
   width: 200px;
   height: 200px;
   background-image: url("../../assets/holberton-logo.jpg");
+=======
+  background: url("../../assets/holberton-logo.jpg");
+  width: 200px;
+  height: 200px;
+>>>>>>> f4345cad4844b5374f7b6a715bbabb5b2d0e84fd
   background-size: 200px 200px;
 }
